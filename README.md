@@ -1,4 +1,7 @@
 # YourIMC
+.NetFramework 3.1
+
+*** APENAS PARA WINDOWS ***
 *** PROJETO AINDA EM DESENVOLVIMENTO ***
 
 -- Projeto teste para up no GitHub.
