@@ -1,0 +1,16 @@
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\bin\Debug\netcoreapp3.1\YourIMC.exe
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\bin\Debug\netcoreapp3.1\YourIMC.deps.json
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\bin\Debug\netcoreapp3.1\YourIMC.runtimeconfig.json
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\bin\Debug\netcoreapp3.1\YourIMC.runtimeconfig.dev.json
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\bin\Debug\netcoreapp3.1\YourIMC.dll
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\bin\Debug\netcoreapp3.1\YourIMC.pdb
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\obj\Debug\netcoreapp3.1\YourIMC.csprojAssemblyReference.cache
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\obj\Debug\netcoreapp3.1\YourIMC.Form1.resources
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\obj\Debug\netcoreapp3.1\YourIMC.csproj.GenerateResource.cache
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\obj\Debug\netcoreapp3.1\YourIMC.AssemblyInfoInputs.cache
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\obj\Debug\netcoreapp3.1\YourIMC.AssemblyInfo.cs
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\obj\Debug\netcoreapp3.1\YourIMC.csproj.CoreCompileInputs.cache
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\obj\Debug\netcoreapp3.1\YourIMC.dll
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\obj\Debug\netcoreapp3.1\YourIMC.pdb
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\obj\Debug\netcoreapp3.1\YourIMC.genruntimeconfig.cache
+C:\Users\dec1\Documents\source\YourIMC\YourIMC\obj\Debug\netcoreapp3.1\YourIMC.Form2.resources
