@@ -1,4 +1,6 @@
 # YourIMC
+*** PROJETO AINDA EM DESENVOLVIMENTO ***
+
 -- Projeto teste para up no GitHub.
 
 Calcule seu IMC de forma rápida e simples, em apenas três etapas.
